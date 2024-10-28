@@ -29,7 +29,7 @@ public class Problem33 {
     }
 
     public static void main(String[] args) {
-        int[] nums = new int[]{1, 2, 3, 4, 5, 6, 7, 8, 0, 10};
+        int[] nums = new int[]{1,0,1,1,1};
         System.out.println(search(nums, 0));
     }
 }
