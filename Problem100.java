@@ -9,6 +9,5 @@ public class Problem100 {
         TreeNode p = new TreeNode(1);
         TreeNode q = new TreeNode(2);
 
-
     }
 }
